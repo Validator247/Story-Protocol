@@ -5,7 +5,7 @@ Download Genesis & Addrbook
     curl -o genesis.json https://raw.githubusercontent.com/Validator247/Story-Protocol/main/genesis.json
     curl -o addrbook.json https://raw.githubusercontent.com/Validator247/Story-Protocol/main/addrbook.json 
 
-Upgrade
+Upgrade v0.10.0 at height: 626575
 
         cd $HOME
         rm -rf story
